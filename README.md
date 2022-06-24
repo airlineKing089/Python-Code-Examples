@@ -1,5 +1,5 @@
 # Python-Code-Examples
-Python-Code-Examples consists of many (in the future) short examples of simplistic things for people learning python. Each example will becommented so you know how it works. These will cover both simple and semi-complex topics.
+Python-Code-Examples consists of many (in the future) short examples of simplistic things for people learning python. These examples will cover both simple and semi-complex topics.
 
 ## Info
 - All code was made by me, no-one else
